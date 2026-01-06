@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmAdminBookingApprovals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmAirportGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmFlightStatusReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManageAirports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmPassengerManifest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmViewTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\CustomTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\UIComponents\GraphCanvas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

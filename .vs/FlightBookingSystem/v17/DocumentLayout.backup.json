@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\dl\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:dl\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmpassengermanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmpassengermanifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmmanageairports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmmanageairports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmflightstatusreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmflightstatusreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmairportgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmairportgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\frmadminbookingapprovals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmadminbookingapprovals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\services\\seatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:services\\seatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\services\\flightnetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:services\\flightnetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\pathresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\pathresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\flightedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\flightedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\airportwithroutecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\airportwithroutecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\airportnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\airportnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\models\\airportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:models\\airportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\seatminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\seatminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\passengerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\passengerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\mytrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\mytrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\myminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\myminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\mygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\mygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\mybst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\mybst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\generichashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\generichashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\flightpriceminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\flightpriceminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\dijkstraminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\dijkstraminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|d:\\3rd semester\\dsa projects\\sauban\\final code pakka wala\\flightbookingsystem\\core\\datastructures\\customset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:core\\datastructures\\customset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\ui\\frmairportgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2A8F5B1-4C3D-4A5E-9B1A-7F8C9D0E2B3C}|FlightBookingSystem.csproj|solutionrelative:ui\\frmairportgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAAAJoBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:56:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\LoginForm.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\LoginForm.cs",
+              "RelativeToolTip": "UI\\LoginForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:56:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmViewTicket.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmViewTicket.cs",
+              "RelativeDocumentMoniker": "UI\\frmViewTicket.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmViewTicket.cs",
+              "RelativeToolTip": "UI\\frmViewTicket.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAwwKkBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:55:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPassengerManifest.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmPassengerManifest.cs",
+              "RelativeDocumentMoniker": "UI\\frmPassengerManifest.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmPassengerManifest.cs",
+              "RelativeToolTip": "UI\\frmPassengerManifest.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAowLkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:55:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmManageAirports.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmManageAirports.cs",
+              "RelativeDocumentMoniker": "UI\\frmManageAirports.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmManageAirports.cs",
+              "RelativeToolTip": "UI\\frmManageAirports.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:54:21.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFlightStatusReport.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmFlightStatusReport.cs",
+              "RelativeDocumentMoniker": "UI\\frmFlightStatusReport.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmFlightStatusReport.cs",
+              "RelativeToolTip": "UI\\frmFlightStatusReport.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwKkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:53:57.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAdminBookingApprovals.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAdminBookingApprovals.cs",
+              "RelativeDocumentMoniker": "UI\\frmAdminBookingApprovals.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAdminBookingApprovals.cs",
+              "RelativeToolTip": "UI\\frmAdminBookingApprovals.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwCIBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:51:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeatManager.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\SeatManager.cs",
+              "RelativeDocumentMoniker": "Services\\SeatManager.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\SeatManager.cs",
+              "RelativeToolTip": "Services\\SeatManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:50:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightNetworkService.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\FlightNetworkService.cs",
+              "RelativeDocumentMoniker": "Services\\FlightNetworkService.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\FlightNetworkService.cs",
+              "RelativeToolTip": "Services\\FlightNetworkService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:46:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PathResult.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\PathResult.cs",
+              "RelativeDocumentMoniker": "Models\\PathResult.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\PathResult.cs",
+              "RelativeToolTip": "Models\\PathResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:45:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlightEdge.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\FlightEdge.cs",
+              "RelativeDocumentMoniker": "Models\\FlightEdge.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\FlightEdge.cs",
+              "RelativeToolTip": "Models\\FlightEdge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:45:16.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:45:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AirportWithRouteCount.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportWithRouteCount.cs",
+              "RelativeDocumentMoniker": "Models\\AirportWithRouteCount.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportWithRouteCount.cs",
+              "RelativeToolTip": "Models\\AirportWithRouteCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:44:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AirportNode.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportNode.cs",
+              "RelativeDocumentMoniker": "Models\\AirportNode.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportNode.cs",
+              "RelativeToolTip": "Models\\AirportNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:44:48.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PassengerStack.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\PassengerStack.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\PassengerStack.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\PassengerStack.cs",
+              "RelativeToolTip": "Core\\DataStructures\\PassengerStack.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:44:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyTrie.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyTrie.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyTrie.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyTrie.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyTrie.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:44:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyStack.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyStack.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyStack.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyStack.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:43:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyQueue.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyQueue.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyQueue.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyQueue.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyQueue.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:43:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyLinkedList.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyLinkedList.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyLinkedList.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:43:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MyBST.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyBST.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyBST.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyBST.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyBST.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:43:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlightPriceMinHeap.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\FlightPriceMinHeap.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\FlightPriceMinHeap.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\FlightPriceMinHeap.cs",
+              "RelativeToolTip": "Core\\DataStructures\\FlightPriceMinHeap.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:42:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmAirportGraph.cs [Design]",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAirportGraph.cs",
+              "RelativeDocumentMoniker": "UI\\frmAirportGraph.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAirportGraph.cs [Design]",
+              "RelativeToolTip": "UI\\frmAirportGraph.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:27:07.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GraphService.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\GraphService.cs",
+              "RelativeDocumentMoniker": "Services\\GraphService.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\GraphService.cs",
+              "RelativeToolTip": "Services\\GraphService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAgCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:58:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAirportGraph.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAirportGraph.cs",
+              "RelativeDocumentMoniker": "UI\\frmAirportGraph.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\frmAirportGraph.cs",
+              "RelativeToolTip": "UI\\frmAirportGraph.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAIwFcBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:39:46.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DijkstraMinHeap.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\DijkstraMinHeap.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\DijkstraMinHeap.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\DijkstraMinHeap.cs",
+              "RelativeToolTip": "Core\\DataStructures\\DijkstraMinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:52:46.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeatMinHeap.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\SeatMinHeap.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\SeatMinHeap.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\SeatMinHeap.cs",
+              "RelativeToolTip": "Core\\DataStructures\\SeatMinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:36:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\Node.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\Node.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\Node.cs",
+              "RelativeToolTip": "Core\\DataStructures\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:35:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyMinHeap.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyMinHeap.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyMinHeap.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyMinHeap.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyMinHeap.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T11:31:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomSet.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\CustomSet.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\CustomSet.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\CustomSet.cs",
+              "RelativeToolTip": "Core\\DataStructures\\CustomSet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwHEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:54:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyGraph.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyGraph.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyGraph.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyGraph.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyGraph.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:45:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "Services\\FlightService.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Services\\FlightService.cs",
+              "RelativeToolTip": "Services\\FlightService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwDQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:43:30.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\AdminForm.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\UI\\AdminForm.cs",
+              "RelativeToolTip": "UI\\AdminForm.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAuwPgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:41:45.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyHashTable.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyHashTable.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\MyHashTable.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\MyHashTable.cs",
+              "RelativeToolTip": "Core\\DataStructures\\MyHashTable.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:19:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericHashTable.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\GenericHashTable.cs",
+              "RelativeDocumentMoniker": "Core\\DataStructures\\GenericHashTable.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Core\\DataStructures\\GenericHashTable.cs",
+              "RelativeToolTip": "Core\\DataStructures\\GenericHashTable.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAA6wLgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:52:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AirportData.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportData.cs",
+              "RelativeDocumentMoniker": "Models\\AirportData.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\Models\\AirportData.cs",
+              "RelativeToolTip": "Models\\AirportData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:17:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\DL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DL\\DbHelper.cs",
+              "ToolTip": "D:\\3rd Semester\\DSA Projects\\sauban\\Final Code Pakka Wala\\FlightBookingSystem\\DL\\DbHelper.cs",
+              "RelativeToolTip": "DL\\DbHelper.cs",
+              "ViewState": "AgIAABgDAAAAAAAAAAAAADADAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:49:18.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
